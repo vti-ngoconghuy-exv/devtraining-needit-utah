@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>c00366a894eae21017b7258daeae3e22</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>test-param</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 04:36:06</sys_created_on>
+        <sys_id>000366a83aeae21035c2b4ad8b802b22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test param</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_page_registry_000366a83aeae21035c2b4ad8b802b22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 04:36:06</sys_updated_on>
+        <title>Test param</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4e0fba392b3b12182fdcfcd2ce91bf4f</instance_id>
+        <instance_name>dev296355</instance_name>
+        <name>sys_ux_page_registry_000366a83aeae21035c2b4ad8b802b22</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>c00366a894eae21017b7258daeae3e22</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>test-param</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 04:36:06</sys_created_on><sys_id>000366a83aeae21035c2b4ad8b802b22</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test param</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_page_registry_000366a83aeae21035c2b4ad8b802b22</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 04:36:06</sys_updated_on><title>Test param</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1743367334</payload_hash>
+        <record_name>Test param</record_name>
+        <reverted_from/>
+        <source>f3330b00c3022210f478fdac0501311a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-06-05 21:08:37</sys_created_on>
+        <sys_id>81b3aae8c3eae210f478fdac05013122</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19741eca4080000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>41b3aae893eae21086d12d3c79da4d22</update_guid>
+        <update_guid_history>41b3aae893eae21086d12d3c79da4d22:1743367334</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 04:39:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>013809b722d346138094d1f9d2c9bd21</sys_id>
+        <sys_metadata>000366a83aeae21035c2b4ad8b802b22</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test param</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_000366a83aeae21035c2b4ad8b802b22</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_000366a83aeae21035c2b4ad8b802b22">81b3aae8c3eae210f478fdac05013122</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 04:39:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
